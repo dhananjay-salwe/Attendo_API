@@ -97,6 +97,3 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
-* A project demo GIF or screenshot placeholder
-
-I can add that too!
